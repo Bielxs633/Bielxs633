@@ -3,15 +3,16 @@
    Gabriel da Silva Soares
    </h>
    <br>
-   <br>
    
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielxs_ss_/)
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
    
    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielxs633&layout=compact&langs_count=12&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
-   <br>
-      <img width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=Bielxs633&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
+        <img width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
+   </div>
+   
+   <div>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielxs633&layout=compact&langs_count=12&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
    </div>
    
    <div style="display: inline_block"><br/>
