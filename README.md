@@ -5,7 +5,7 @@
 
 ![Bielxs GitHub stats](https://github-readme-stats.vercel.app/api?username=Bielxs633&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bielxs633&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bielxs633&layout=dracula)
 
 ### Tecnologias que utilizo
 
