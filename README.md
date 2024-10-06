@@ -8,7 +8,7 @@
 <br> 
    
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielxs_ss_/)
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soares-3098782b0/) 
 </div>
 
 <div align="center">
@@ -27,8 +27,6 @@
    <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-FF4500?style=for-the-badge&logo=node.js&logoColor=white" />
    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
-
-![Snake animation](https://github.com/Bielxs633/Bielxs633/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/> 
 
