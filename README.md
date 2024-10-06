@@ -1,5 +1,8 @@
 <div align="center">
-   ### Oii! Eu sou Gabriel da Silva Soares
+   <h1>
+   Gabriel da Silva Soares
+   </h>
+   <br>
    <br>
    
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielxs_ss_/)
