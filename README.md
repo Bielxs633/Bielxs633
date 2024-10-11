@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
 
 <div align="center">
+   <img width=50% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
+      
+<div align="center">
    <h1>
       Gabriel da Silva Soares
    </h>
