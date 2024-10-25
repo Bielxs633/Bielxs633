@@ -33,4 +33,8 @@
    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bielxs633&bg_color=00000000&color=8A2BE2&line=bb00ff&point=4B0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bb00ff&height=120&section=footer"/> 
